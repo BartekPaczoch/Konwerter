@@ -1,0 +1,54 @@
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xap
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\temperatura.g.i.cs
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+c:\users\marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\Marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\dlugosc.g.i.cs
+C:\Users\Marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\cisnieni.g.i.cs
+C:\Users\Marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\predkosc.g.i.cs
+C:\Users\Marek\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\powierzchnia.g.i.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\App.g.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\cisnieni.g.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\dlugosc.g.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\powierzchnia.g.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\predkosc.g.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\temperatura.g.cs
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\BepiApacz\Desktop\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\Bin\Debug\Background.png
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\App.g.cs
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\cisnieni.g.cs
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\dlugosc.g.cs
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\powierzchnia.g.cs
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\predkosc.g.cs
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\temperatura.g.cs
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\BepiApacz\Desktop\Konwerter\PhoneApp1\obj\Debug\Start.g.cs
